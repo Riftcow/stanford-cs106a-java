@@ -88,5 +88,5 @@ External ACM library for Java:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Riftcow/stanford-cs106a-java/
+cd stanford-cs106a-java
