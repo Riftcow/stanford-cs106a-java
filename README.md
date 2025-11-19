@@ -90,3 +90,8 @@ External ACM library for Java:
 ```bash
 git clone https://github.com/Riftcow/stanford-cs106a-java/
 cd stanford-cs106a-java
+```
+
+2. **Download Eclipse from here 1.6:**
+
+https://see.stanford.edu/course/cs106a
